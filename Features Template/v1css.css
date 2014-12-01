@@ -1,0 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Average);
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+head {
+
+}
+
+body {
+
+}
+
+p {
+  padding-left: 20%;
+  padding-top: 2%;
+  width: 570px;
+  font-size: 20px;
+}
+
+
+}
+
+/* image types */
+
+.offsetleft {
+  float: left;
+  padding-left: p;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-left: -10%
+}
+
+.offsetright {
+  float: right;
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-right: -10%;
+}
+
+/* Article Embellishments */
+
+.quote {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-family: Roboto;
+	margin-right: 10%;
+	margin-left: 10%;
+	color: darkred;
+}
+
+.dropcap {
+ ="float:left;
+ font-size:44px;line-height:35px;padding-top:3px; padding-right:3px;font-family: Times, serif, Georgia;"
